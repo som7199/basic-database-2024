@@ -315,6 +315,10 @@ IoT 개발자 과정 SQL Server 학습 리포지토리
         3. INSERT 쿼리에 한글 입력되는 컬럼은 N'' 을 붙여줌(유니코드로 입력하라는 뜻)
 
     - 실행화면
+      
+      https://github.com/som7199/basic-database-2024/assets/95500015/3c736922-992e-4522-9c6b-29da8e250009
+
+
 
 ## 7일차
 - SQL 고급
