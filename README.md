@@ -316,7 +316,7 @@ IoT 개발자 과정 SQL Server 학습 리포지토리
 
     - 실행화면
       
-      https://github.com/som7199/basic-database-2024/assets/95500015/3c736922-992e-4522-9c6b-29da8e250009
+      https://github.com/som7199/basic-database-2024/assets/95500015/63e4d0b7-f678-47b3-aa79-431619615865
 
 
 
